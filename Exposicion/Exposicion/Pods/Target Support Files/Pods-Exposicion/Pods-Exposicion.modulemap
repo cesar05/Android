@@ -1,0 +1,6 @@
+framework module Pods_Exposicion {
+  umbrella header "Pods-Exposicion-umbrella.h"
+
+  export *
+  module * { export * }
+}
